@@ -8,4 +8,5 @@ end
 
 def input_to_index(inp)
   new_inp = inp.to_i
+  return new_inp - 1
 end
